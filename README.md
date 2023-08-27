@@ -1,0 +1,1 @@
+A disciplina de Introdução à Programação Paralela e Distribuída (IPPD) é uma disciplina, de cunho prático, que visa apresentar aos alunos conceitos de paralelismo usando memória compartilhada e distribuída.
